@@ -33,5 +33,4 @@ I have implemented the following features:
 2. Toggle video
 3. Select the devices from the list
 4. Connect multiple participants through video conferencing
-5. Chat and Sharescreen (Partially implemented; output is not visible as the code is placed in comments)
-I tried to implement chat but it's not working well.
+5. Sharescreen 
